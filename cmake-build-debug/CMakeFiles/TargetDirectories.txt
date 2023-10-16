@@ -1,0 +1,5 @@
+D:/Mis cosas/Clase/Programas CLion/P2/cmake-build-debug/CMakeFiles/test_participant_list.dir
+D:/Mis cosas/Clase/Programas CLion/P2/cmake-build-debug/CMakeFiles/test_jury_list.dir
+D:/Mis cosas/Clase/Programas CLion/P2/cmake-build-debug/CMakeFiles/main.dir
+D:/Mis cosas/Clase/Programas CLion/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mis cosas/Clase/Programas CLion/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

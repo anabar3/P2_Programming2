@@ -1,0 +1,22 @@
+# ninja log v5
+0	143	7031042156858375	build.ninja	cab54fc4aeff70da
+21	169	7030835939373574	CMakeFiles/main.dir/jury_list.c.obj	b8c6a9084f129910
+185	411	7023889510677294	D:/Mis cosas/Clase/Programas CLion/P2/bin/test_participant_list.exe	fa89d4a50a8f869f
+15	151	7030797056751550	CMakeFiles/main.dir/participant_list.c.obj	d67c6742c90da693
+6	167	7030857442914522	CMakeFiles/main.dir/main.c.obj	7d2d1e9c14e61ba3
+168	397	7030857445084185	D:/Mis cosas/Clase/Programas CLion/P2/bin/main.exe	a9fe9ba23a62616e
+19	184	7023889508512587	CMakeFiles/test_participant_list.dir/test_participant_list.c.obj	1b666f36c83b84a1
+5	177	7023889508451366	CMakeFiles/test_participant_list.dir/participant_list.c.obj	f9e2149deee8f6a5
+3	117	7023941159317795	CMakeFiles/test_jury_list.dir/test_jury_list.c.obj	e283fa4f905b73ba
+136	432	7023955139182845	D:/Mis cosas/Clase/Programas CLion/P2/bin/test_jury_list.exe	e59f94c538631233
+4	135	7023955136337744	CMakeFiles/test_jury_list.dir/jury_list.c.obj	92fb93792653f99f
+8	1389	7031042156858375	build.ninja	319f8b515b40465f
+39	790	7031042167736534	CMakeFiles/main.dir/main.c.obj	7d2d1e9c14e61ba3
+25	794	7031042167778472	CMakeFiles/main.dir/jury_list.c.obj	b8c6a9084f129910
+9	797	7031042167798834	CMakeFiles/main.dir/participant_list.c.obj	d67c6742c90da693
+797	1275	7031042172489108	D:/Mis cosas/Clase/Programas CLion/P2/bin/main.exe	a9fe9ba23a62616e
+12	491	7031042500906561	CMakeFiles/test_jury_list.dir/jury_list.c.obj	92fb93792653f99f
+52	840	7031042504338112	CMakeFiles/test_jury_list.dir/test_jury_list.c.obj	e283fa4f905b73ba
+841	1231	7031042508247914	D:/Mis cosas/Clase/Programas CLion/P2/bin/test_jury_list.exe	e59f94c538631233
+6	175	7031042714510850	CMakeFiles/test_jury_list.dir/jury_list.c.obj	92fb93792653f99f
+175	414	7031042716809772	D:/Mis cosas/Clase/Programas CLion/P2/bin/test_jury_list.exe	e59f94c538631233
